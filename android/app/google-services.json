@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "681825741099",
+    "firebase_url": "https://shoppin-199620.firebaseio.com",
+    "project_id": "shoppin-199620",
+    "storage_bucket": "shoppin-199620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681825741099:android:6c7a589bf8faa101",
+        "android_client_info": {
+          "package_name": "com.evolutionsoluciones.shoppin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681825741099-8a7in0i3levbud742i7afogdolpmajqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPKimk4SyFCkompzegfIN0rm9P-vAgT9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681825741099-vrip1m6d1o8ns4naga6alv9b88srcdfu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681825741099-2itdk7gccarmskf9oir6jn3bkm6p8hi9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.evolutionsoluciones.shoppin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681825741099:android:434fbc29cd409c66efbd6e",
+        "android_client_info": {
+          "package_name": "com.evolutionsoluciones.yupi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681825741099-8a7in0i3levbud742i7afogdolpmajqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPKimk4SyFCkompzegfIN0rm9P-vAgT9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681825741099-vrip1m6d1o8ns4naga6alv9b88srcdfu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681825741099-2itdk7gccarmskf9oir6jn3bkm6p8hi9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.evolutionsoluciones.shoppin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681825741099:android:53d21ca6863ba489efbd6e",
+        "android_client_info": {
+          "package_name": "com.evolutionsoluciones.yupiproveedor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681825741099-8a7in0i3levbud742i7afogdolpmajqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPKimk4SyFCkompzegfIN0rm9P-vAgT9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681825741099-vrip1m6d1o8ns4naga6alv9b88srcdfu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681825741099-2itdk7gccarmskf9oir6jn3bkm6p8hi9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.evolutionsoluciones.shoppin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
